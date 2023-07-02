@@ -38,7 +38,7 @@ body {
 .card {
  position:absolute;
  left:50%;
- top:50%;
+ top:49%;
  transform:translate(-50%,-50%);
  border-bottom-left-radius:9px;
  border-bottom-right-radius:9px;
