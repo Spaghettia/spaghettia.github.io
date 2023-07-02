@@ -38,7 +38,7 @@ body {
 .card {
  position:absolute;
  left:50%;
- top:49%;
+ top:50%;
  transform:translate(-50%,-50%);
  border-bottom-left-radius:9px;
  border-bottom-right-radius:9px;
@@ -65,9 +65,6 @@ body {
  margin-left:20px;
  margin-top:-50px;
  border:0 solid var(--main-card-color);
- position:relative
-}
-#discord_pfp {
  position:relative
 }
 .presence {
