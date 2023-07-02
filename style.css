@@ -19,7 +19,6 @@ body {
  background-color:#11111b;
  font-family:Inter,sans-serif;
  font-weight:100;
- cursor:url(../img/cursor.png),auto;
  -webkit-touch-callout:none;
  -webkit-user-select:none;
  -khtml-user-select:none;
@@ -174,41 +173,6 @@ a {
  display:none;
  padding-bottom:10px
 }
-.listening-img {
- text-align:center;
- border-radius:9px;
- float:left;
- width:64px;
- height:64px;
- margin-left:10px;
- margin-right:10px
-}
-.listening-txt {
- margin-left:70px;
- color:#dcddde;
- margin-left:10px;
- margin-right:10px
-}
-.listening-title {
- font-weight:600;
- font-size:12px;
- margin-right:10px
-}
-.listening-detail {
- font-weight:300;
- font-size:11px;
- margin-right:10px
-}
-.listening-label {
- margin-top:0;
- margin-bottom:1px;
- margin-left:10px;
- margin-right:10px;
- color:#dcdddec9;
- font-size:12px;
- line-height:16px;
- display:none
-}
 progress {
  width:250px;
  position:fixed;
@@ -269,18 +233,6 @@ progress {
 hr {
  border:#353552 1px solid;
  margin-left:-10px
-}
-.xen-bg {
- background-image:url(../img/starry.webp);
- background-repeat:no-repeat;
- background-position:center;
- position:fixed;
- right:0;
- bottom:0;
- min-width:100%;
- min-height:100%;
- z-index:-2;
- filter:blur(6px)
 }
 .bio-label {
  margin-top:0;
