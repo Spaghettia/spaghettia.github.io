@@ -49,7 +49,7 @@ body {
  background-color:var(--main-card-color)
 }
 .card:hover {
- box-shadow:0 8px 16px 0 rgba(0,0,0,.2),0 12px 40px 0 #0b1119;
+ box-shadow:0 8px 16px 0 rgba(0,0,0,.2),0 12px 40px 0 #3e7497;
  transition:.7s
 }
 .card2 {
@@ -164,47 +164,7 @@ body {
 a {
  all:unset
 }
-.listening {
- margin-left:10px;
- background-color:#11111a;
- width:269px;
- border-radius:9px;
- padding-top:9px;
- display:none;
- padding-bottom:10px
-}
-progress {
- width:250px;
- position:fixed;
- top:357px;
- margin-top:39px;
- margin-left:10px;
- margin-right:10px;
- margin-right:10px;
- background-color:#292931;
- border-radius:9px;
- height:4px;
- border:none
-}
-progress::-moz-progress-bar {
- background:#414148;
- border-radius:9px
-}
-progress::-webkit-progress-value {
- background:#414148;
- border-radius:9px
-}
-progress {
- color:#414148;
- border-radius:9px
-}
-.prog-time {
- margin-top:5px;
- color:#dcdddec9;
- font-size:12px;
- line-height:16px;
- display:inline-block
-}
+
 .xenylist-label {
  margin-top:10px;
  margin-bottom:-10px;
